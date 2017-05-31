@@ -1,0 +1,12 @@
+1       中国China
+2       巴西Brazl
+3       文莱Brune
+4       加拿大Canada
+5       哥伦比亚Colomba
+6       澳大利亚Australa
+7       古巴Cuba
+8       芬兰Fnland
+9       法国France
+10      德国Gerwmany
+11      印度Inda
+12      印度尼西亚Indonesa
